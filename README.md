@@ -1,4 +1,4 @@
-# nas configuracoes de PHP, qual a diferença entre post_max_size upload_max_filesize?
+# Nas configuracoes de PHP, qual a diferença entre post_max_size upload_max_filesize?
 
 Em configurações do PHP, "post_max_size" e "upload_max_filesize" são duas diretivas diferentes que controlam o tamanho máximo de dados que podem ser enviados para um script PHP via método POST e via upload de arquivos, respectivamente.
 
